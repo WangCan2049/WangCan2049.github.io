@@ -1,7 +1,7 @@
-    ---
-    layout: post
-    title: 查找python的dictionary中的最小值
-    ---
+---
+layout: post
+title: 查找python的dictionary中的最小值
+---
     
 ## 题目    
 如何找到python的字典，比如`d={320:1, 321:0, 322:3}`中value部分的最小值，并返回key？
